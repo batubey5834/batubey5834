@@ -1,0 +1,10 @@
+- Merhaba ben Batuhan Yalçın.
+- Bu yazıyı yazarken Bilgisayar programcılığı 2. Sınıf öğrencisiyim.
+- İlgilendiğim alan Şuanlık Backend.
+- C# da ileri seviye bilgiye sahibim java'da orta düzey bilgiye sahibim.
+- Gelecekte ki planlarım ise Güzel Bir Backend Developer'ı olmaktır.
+- Github Sayfamda Okul hayatım boyunca öğrendiğim şeyleri ve kendi başıma öğrendiğim şeyleri not tutuyorum.
+- Github ı şuanda bu amaç ile kullanıyorum.
+- sayfamda kendime ait web sitesi tasarımlarım , C# da öğrendiğim şeyler javada öğrendiğim şeyler vs. Gibi şeyler mevcut.
+- Birlikte Projeler Geliştirmek istiyen olursa mail adresim : batuhanyalcin5834@gmail.com .
+- Saygılarımla..
